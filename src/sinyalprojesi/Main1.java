@@ -60,7 +60,7 @@ public class Main1 extends Applet implements ChangeListener, ItemListener {
         slider.genislikSlider.addChangeListener(listenerSlider);
         slider.yükseklikSlider.addChangeListener(listenerSlider);
     }
-    //mehmet
+    
 
     public void init() {
         setLayout(new FlowLayout());
