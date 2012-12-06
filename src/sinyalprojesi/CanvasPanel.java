@@ -1,6 +1,6 @@
 package sinyalprojesi;
 //Swing componentleri kendi yazıo graphicsi awt den alıo
-//applet componenti ve graphicsi awtden kullanıorz
+//applet componenti ve graphicsi awtden kullssdsdsdanıorzsa
 import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.Graphics2D;
