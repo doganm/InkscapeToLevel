@@ -1,5 +1,5 @@
  package sinyalprojesi;
-  
+    
 import java.awt.FlowLayout;
 import java.awt.GridLayout;
 import javax.swing.JCheckBox;
