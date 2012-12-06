@@ -1,5 +1,5 @@
 package sinyalprojesi;
-
+//sd
 import java.applet.Applet;
 import java.awt.Color;
 import java.awt.Component;
