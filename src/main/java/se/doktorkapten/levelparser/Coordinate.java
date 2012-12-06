@@ -311,7 +311,7 @@ public class Coordinate implements Comparable<Object>, Cloneable, Serializable {
 
         /**
          * Creates a comparator for 2 or 3 dimensional coordinates, depending on
-         * the value provided.
+         * the value provided.sdasd
          * 
          * @param dimensionsToTest
          *            the number of dimensions to test
